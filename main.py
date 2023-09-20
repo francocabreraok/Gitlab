@@ -1,3 +1,4 @@
-frase = int(input("Ingrese una frase: "))
+
+frase = input("Ingrese una frase: ")
 
 print(frase)
